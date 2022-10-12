@@ -21,6 +21,6 @@ You can click the Preview link to take a look at your changes.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanescargot&show_icons=true&theme=outrun)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanescargot)](https://github.com/hanescargot/github-readme-stats&theme=Gradient)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanescargot)](https://github.com/hanescargot/github-readme-statst&show_icons=true&theme=outrun)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanescargotit)](https://solved.ac/hanescargotit/)
