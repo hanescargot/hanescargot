@@ -24,4 +24,4 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanescargot)](https://github.com/hanescargot/github-readme-stats&theme=Gradient)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanescargot)](https://solved.ac/hanescargot)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanescargotit)](https://solved.ac/hanescargotit/)
