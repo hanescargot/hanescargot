@@ -6,7 +6,7 @@
 
 깃 꾸며야 하는데.. 너무 귀찮다.
 
-| Command | Description |
+| 이미지 | Description |
 | --- | --- |
 | `git status` | List all *new or modified* files |
 | `git diff` | Show file differences that **haven't been** staged |
