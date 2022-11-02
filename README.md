@@ -6,10 +6,10 @@
 
 깃 꾸며야 하는데.. 너무 귀찮다.
 
-| 이미지 | 이름 | 내용
-| --- | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| 이미지 | 이름 | 내용 | 상태
+| --- | --- | --- | --- |
+| `git status` | List all *new or modified* files |    |
+| `git diff` | Show file differences that **haven't been** staged |   |
 
 
 <!---
