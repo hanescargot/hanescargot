@@ -6,10 +6,11 @@
 
 깃 꾸며야 하는데.. 너무 귀찮다.
 
-| 이미지 | 이름 | 내용 | 상태
-| --- | --- | --- | --- |
-| `git status` | List all *new or modified* files |    |
-| `git diff` | Show file differences that **haven't been** staged |   |
+| Image | Title | Description | Language |Download
+| --- | --- | --- | --- | --- |
+| `git status` | List all *new or modified* files | Catch Frogs and Make Bigger | Java |  <a href="www.naver.com" target="_blank"><img src="https://img.shields.io/badge/Download In Market-FFFFFF?style=plastic&logo=Flutter&logoColor=02569B"/></a>
+| `git diff` | Show file differences that **haven't been** staged | Get Lucky Numbers and Apply Event | Kotlin |  <a href="www.naver.com" target="_blank"><img src="https://img.shields.io/badge/Download In Market-FFFFFF?style=plastic&logo=Flutter&logoColor=02569B"/></a>
+
 
 
 <!---
