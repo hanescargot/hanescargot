@@ -1,8 +1,10 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-# Welcome! I'm Hanescargot Xian 👋
+# Welcome! I'm Hanescargot 👋
 I'm a passionate mobile app developer specializing in Flutter development. With a keen eye for detail and animation, I craft delightful user experiences through fluid, engaging widget animations. My expertise lies in creating seamless, interactive mobile applications that bring ideas to life through elegant motion design.
+
+I enjoy raising and observing freshwater snails 🐌
 
 <div align="center">
   
