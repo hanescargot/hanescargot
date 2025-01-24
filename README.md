@@ -49,6 +49,14 @@ I enjoy raising and observing freshwater snails 🐌
   
 </div>
 
+## 🌏 Working Experience 
+
+<div align="center">
+
+🇯🇵 Japan | 🇰🇷 South Korea | 🇺🇸 United States | 🇦🇺 Australia
+
+</div>
+
 
 <div align="center">
   
