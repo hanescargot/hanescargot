@@ -1,22 +1,54 @@
 
-| Year | Image | Title | Description | Language |Download | Repo
-| --- | --- | --- | --- | --- | --- | --- |
-2021 | ![FrogImg](https://github.com/hanescargot/hanescargot/assets/84563848/9950d013-6962-4d5c-b3d5-ac14fef74e48) | Poison Frog | Catch Frogs and Make Bigger | Android(Java) |  <a href="www.naver.com" target="_blank"><img src="https://github.com/hanescargot/PoisonFrog"/></a> | <a href="https://github.com/hanescargot/PoisonFrog.git" target="_blank"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/></a>
-2021 | <img width="603" alt="스크린샷 2024-02-09 오전 12 44 11" src="https://github.com/hanescargot/hanescargot/assets/84563848/d68f208f-8cf6-4cfb-bd7d-e143afca7b1a"> | Lotto Auction | Get Lucky Numbers and Apply Event | Android(Java,Kotlin) |  <a href="www.naver.com" target="_blank"><img src="https://github.com/hanescargot/lotto_game_MVP"/></a> | <a href="https://github.com/hanescargot/lotto_game_MVP" target="_blank"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/></a>
-2023 | <img width="200" alt="LottoImg" src="https://github.com/hanescargot/hanescargot/assets/84563848/2f2319be-ce46-4e90-9bb2-1c411cf3cf23"> | Lotto History | Search winning history through Lotto api, Google AdMob | Flutter(Dart) |  <a href="https://play.google.com/store/apps/details?id=com.dpyrion.lotto_korea&pcampaignid=web_share" target="_blank"><img src="https://img.shields.io/badge/Download In Market-FFFFFF?style=plastic&logo=Flutter&logoColor=02569B"/></a> | <a href="https://github.com/hanescargot/lotto_korea" target="_blank"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-
-
-<!---
-hanescargot/hanescargot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanescargot&show_icons=true&theme=outrun) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanescargotit)](https://solved.ac/hanescargotit/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanescargot)](https://github.com/hanescargot/github-readme-statst&show_icons=true&theme=outrun) 
-
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+# Welcome! I'm Hanescargot Xian 👋
+I'm a passionate mobile app developer specializing in Flutter development. With a keen eye for detail and animation, I craft delightful user experiences through fluid, engaging widget animations. My expertise lies in creating seamless, interactive mobile applications that bring ideas to life through elegant motion design.
+
+<div align="center">
+  
+  ### ⬇️ Portfolio!
+</div>
+<div align="center">
+  <a href="https://dazzling-mahogany-c00.notion.site/Welcome-I-am-Hyun-Ju-1827f55f512780b7bd3ec4dbe6d0db40">
+    <img src="https://img.shields.io/badge/✨_Check_Out_My_Work_✨-%23000000.svg?style=plastic&logo=notion&logoColor=white&labelColor=blueviolet&color=FF69B4" alt="Notion" width="300" height="40"/>
+  </a>
+  
+</div>
+
+
+## 📊 GitHub Stats
+<div align="center">
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanescargot&show_icons=true&theme=outrun)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanescargot&layout=compact&theme=outrun)](https://github.com/hanescargot/github-readme-stats)
+  
+</div>
+
+## 💻 What I am Challenging
+<div align="center">
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanescargotit)](https://solved.ac/hanescargotit/)
+  
+</div>
+
+## 🛠 Tech Stack
+<div align="center">
+  
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  
+</div>
+
+
+<div align="center">
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanescargot&count_bg=%23FF00FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
